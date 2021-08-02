@@ -4,6 +4,10 @@ Please find the dataset used in this demo in below link.
 
 https://www.kaggle.com/saurabh00007/diabetescsv
 
+**data_preparation.ipynb** is the databricks jupyter notebook. Cluster creation and related details are explained in the article.
+
+**DatabricksStep_Job.py** and **Evaluate.py** are script files which run in azure ml as SDK.
+
 
 Summary Steps :
 1.	Create a Databricks workspace.
